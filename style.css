@@ -47,3 +47,11 @@ h4{
 	line-height: 1em;
 	z-index: 1000;
 }
+
+.block{
+	position: absolute;
+	width: 50px;
+	height: 100px;
+	background: #ffffff;
+	box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.2);
+}
