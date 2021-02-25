@@ -50,9 +50,19 @@ h2 span{
 
 h4{
 	color: #ff005c;
+	text-transform: uppercase;
 	text-align: center;
 	line-height: 2em;
-	letter-spacing: 0.2em;
+	z-index: 1000;
+}
+
+p{
+	color: #000000;
+	text-align: center;
+	line-height: 4em;
+	font-weight: 100;
+	font-size: 24px;
+
 	z-index: 1000;
 }
 
