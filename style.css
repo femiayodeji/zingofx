@@ -24,6 +24,7 @@ body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	text-align: center;
 }
 
 h2{
@@ -37,4 +38,12 @@ h2{
 
 h2 span{
 	color: #ff005c;
+	font-size: 0.4em;
+}
+
+h4{
+	color: #ff005c;
+	text-align: center;
+	line-height: 1em;
+	z-index: 1000;
 }
